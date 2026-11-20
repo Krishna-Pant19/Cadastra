@@ -39,7 +39,7 @@ Four small "agents" (written as a tested TypeScript rule engine) do the work: Do
 You need [Bun](https://bun.sh) or Node.js 20+.
 
 ```sh
-git clone https://github.com/Dhanvi5728/tech4bharat-solution-hub.git
+git clone https://github.com/Krishna-Pant19/Cadastra.git
 cd tech4bharat-solution-hub
 bun install      # or: npm install
 bun run dev      # or: npm run dev
